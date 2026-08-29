@@ -27,6 +27,11 @@ live, visual, interactive demo instead of console output.
 
 ---
 
+## 📸 Screenshot
+
+![RippleFinder Pathfinding Visualizer](assets/screenshot/ripplefinder.png)
+
+---
 ## 🧠 Concepts Demonstrated
 
 | Syllabus Topic | Where it's used |
